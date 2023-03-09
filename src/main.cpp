@@ -1,6 +1,6 @@
-// Copyright 2022 UNN-IASR
-#include <iostream>
-using namespace std;
-#include "fun.h"
+// Авторское право 2022 УНН-ИАСР
+#включить "fun.h"
 
-int main() { cout << power(3, 4); }
+int главная() {
+    возврат 0;
+}
