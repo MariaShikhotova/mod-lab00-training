@@ -1,6 +1,5 @@
-// Авторское право 2022 УНН-ИАСР
-#включить "fun.h"
-
-int главная() {
-    возврат 0;
+// Copyright 2022 UNN-IASR
+#include "fun.h"
+int main() {
+    return 0;
 }
